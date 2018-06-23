@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">timlab</string>
+    <string name="BaseUrl">http://192.168.236.1:8070</string>
+</resources>
